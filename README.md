@@ -1,4 +1,4 @@
 # ProgramyUzytkowe
-grupa ISI-2 /n
-student Illia Matuznyi/n
+grupa ISI-2,
+student Illia Matuznyi,
 nr albumu: 175274
